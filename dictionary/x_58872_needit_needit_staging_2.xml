@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="NeedIt_staging_2" max_length="40" name="x_58872_needit_needit_staging_2" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=B" label="B" max_length="40" name="u_b" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=C" label="C" max_length="40" name="u_c" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=D" label="D" max_length="40" name="u_d" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=E" label="E" max_length="40" name="u_e" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Must have by" max_length="40" name="u_must_have_by" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Requested For" max_length="40" name="u_requested_for" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Request type" max_length="40" name="u_request_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Short description" max_length="40" name="u_short_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Table 1" label="Table 1" max_length="40" name="u_table_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="What needed" max_length="40" name="u_what_needed" type="string"/>
+    </element>
+</database>
