@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="NeedIt State Change" max_length="40" name="x_58872_needit_needit_state_change" type="collection">
+        <element label="Active" max_length="40" name="active" type="boolean"/>
+        <element label="ID" max_length="8" name="id" type="string"/>
+        <element display="true" label="Modified On" max_length="40" name="modified_on" type="glide_date_time"/>
+    </element>
+</database>
